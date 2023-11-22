@@ -1,0 +1,106 @@
+<mxfile host="app.diagrams.net" modified="2023-04-04T11:46:43.204Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.62" etag="2sG70AEnDrfzLyo3SBFc" version="21.1.4" type="device">
+  <diagram name="Page-1" id="NJmyJ1fa_6FEBV6fAdCf">
+    <mxGraphModel dx="1302" dy="736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JbRFSQGBxZkcSJw3PQ8b-2" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="365.1168831168832" y="560" as="sourcePoint" />
+            <mxPoint x="368" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_oL9-FKY23VNc-5BT6Fj-2" value="System" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="497" y="110" width="100" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="_oL9-FKY23VNc-5BT6Fj-3" value="Enter&amp;nbsp; ProductCode" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="372" y="239" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="457" y="239" />
+            </Array>
+            <mxPoint x="542" y="239" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_oL9-FKY23VNc-5BT6Fj-5" value="Enter Customername" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="372" y="320" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="457" y="320" />
+            </Array>
+            <mxPoint x="542" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_oL9-FKY23VNc-5BT6Fj-7" value="Enter address" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="372" y="400" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="457" y="400" />
+            </Array>
+            <mxPoint x="542" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_oL9-FKY23VNc-5BT6Fj-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="362" y="204" width="10" height="316" as="geometry" />
+        </mxCell>
+        <mxCell id="_oL9-FKY23VNc-5BT6Fj-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="542" y="204" width="10" height="316" as="geometry" />
+        </mxCell>
+        <mxCell id="_oL9-FKY23VNc-5BT6Fj-23" value="Update Database" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="552" y="480" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="637" y="480" />
+            </Array>
+            <mxPoint x="722" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_oL9-FKY23VNc-5BT6Fj-27" value="Database" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="676" y="109.5" width="100" height="450.5" as="geometry" />
+        </mxCell>
+        <mxCell id="_oL9-FKY23VNc-5BT6Fj-29" value="Enter Customer contact" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="373" y="360.58" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="458" y="360.58" />
+            </Array>
+            <mxPoint x="543" y="360.58" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_oL9-FKY23VNc-5BT6Fj-31" value="Generate Bill" style="html=1;verticalAlign=bottom;endArrow=classic;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="372" y="441" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="467" y="441" />
+            </Array>
+            <mxPoint x="542" y="441" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_oL9-FKY23VNc-5BT6Fj-32" value="" style="shape=umlDestroy;html=1;" parent="1" vertex="1">
+          <mxGeometry x="352" y="560" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_oL9-FKY23VNc-5BT6Fj-33" value="" style="shape=umlDestroy;html=1;" parent="1" vertex="1">
+          <mxGeometry x="532" y="560" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_oL9-FKY23VNc-5BT6Fj-34" value="" style="shape=umlDestroy;html=1;" parent="1" vertex="1">
+          <mxGeometry x="711" y="560" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rirEdEQQdNoZI-myGBJe-1" value="Enter Quantity" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="372" y="279" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="457" y="279" />
+            </Array>
+            <mxPoint x="542" y="279" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1Pp61ZBQNhkUn3M68H43-1" value="&lt;font size=&quot;1&quot; face=&quot;Comic Sans MS&quot;&gt;&lt;b style=&quot;font-size: 38px;&quot;&gt;Offline Billing Management Sequence Diagram&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" width="890" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JbRFSQGBxZkcSJw3PQ8b-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="352" y="110" width="30" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
