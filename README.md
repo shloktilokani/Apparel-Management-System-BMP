@@ -8,5 +8,7 @@ Through this project, we've delved into the world of UML diagrams, understanding
 Learning how to draw these diagrams was key—it's like creating blueprints for smoother operations in the clothing business.
 
 Tools Used :-
+
  -> Draw.io
+
  -> StarUML
